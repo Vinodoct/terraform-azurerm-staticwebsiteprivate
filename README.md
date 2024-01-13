@@ -1,0 +1,2 @@
+# terraform-azurerm-staticwebsiteprivate
+terraform-azurerm-staticwebsiteprivate
